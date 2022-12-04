@@ -12,7 +12,6 @@ public class UserInterface {
 		int ch = 0;
 		int ch2=0;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Welcome");
 		System.out.println("Welcome to LockedMe.com");
 		System.out.println("Developed by AnushaAnireddy");
 		outerloop:
